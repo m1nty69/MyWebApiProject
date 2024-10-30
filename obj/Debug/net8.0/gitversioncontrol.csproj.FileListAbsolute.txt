@@ -30,3 +30,4 @@ C:\Users\jmbxt\source\repos\gitversioncontrol\obj\Debug\net8.0\refint\gitversion
 C:\Users\jmbxt\source\repos\gitversioncontrol\obj\Debug\net8.0\gitversioncontrol.pdb
 C:\Users\jmbxt\source\repos\gitversioncontrol\obj\Debug\net8.0\gitversioncontrol.genruntimeconfig.cache
 C:\Users\jmbxt\source\repos\gitversioncontrol\obj\Debug\net8.0\ref\gitversioncontrol.dll
+C:\Users\jmbxt\source\repos\gitversioncontrol\obj\Debug\net8.0\gitversioncontrol.sourcelink.json
