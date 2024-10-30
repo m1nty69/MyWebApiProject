@@ -1,0 +1,6 @@
+@gitversioncontrol_HostAddress = http://localhost:5264
+
+GET {{gitversioncontrol_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
